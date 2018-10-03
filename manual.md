@@ -5,6 +5,6 @@ Documentation for the book
 
 Just type `cat README.md` to see the content.
 
-# How to contribute?
+## How to contribute?
 
 Please send as a pull request via our GitHub repository.
