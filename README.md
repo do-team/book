@@ -7,7 +7,7 @@ How to even start?
 
 # Chapter 2
 
-Once upon a time...
+Once upon a time.
 
 # Chapter 3
 
